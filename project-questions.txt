@@ -1,0 +1,19 @@
+1) Two ways to move a div around on the page.
+    1. Relative Position
+    2. Absolute Position
+    3. I think Flex Grids may be relevant here. 
+
+2) Stick a div onto the bottom of the page.
+
+3) Identify the Background color of an existing webpage.
+    https://www.theodinproject.com - rgb(255, 255, 255)
+
+4) Grab the URL for an image from an existing webpage.
+    <img class="logo__img" src="/assets/odin-logo-2d729f16279e9fc3b58ce847eacf07f883bdfc95eb23bb5064ed59d36ef551d6.svg">
+
+5)Center an element horizontally.
+
+6) Identify three ways you can include CSS styles in your page.
+    1. Using a CSS sheet
+    2. Using inline CSS
+    3. Declaring a style element within the document (in the head)
