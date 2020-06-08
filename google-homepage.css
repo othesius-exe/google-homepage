@@ -1,0 +1,75 @@
+/* Start Navigation bar styles */
+
+#header-nav-bar {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.nav-bar {
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    width: 100%;
+    list-style-type: none;
+}
+
+#header-nav-left {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+#header-nav-right {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+.nav-bar-item {
+    margin-left: 15px;
+}
+
+.nav-bar-item:hover {
+    text-decoration: underline;
+}
+
+#profile-link {
+    background-color: black;
+    height: 35px;
+    width: 35px;
+    border-radius: 25px;
+}
+
+/* End navigation bar settings */
+
+
+/* Search bar and logo settings */
+
+#search-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 190px;
+}
+
+#logo {
+    height: 92px;
+    width: 272px;
+}
+
+#search-bar {
+    background-color: rgb(255,255,255);
+    width: 450px;
+    height: 35px;
+    border-radius: 25px;
+    border-width: 1px;
+    box-shadow: none;
+    padding-left: 15px;
+    margin-top: 20px;
+}
+
+#search-bar:hover {
+    box-shadow: 0px 1px 3px 0px;
+}
